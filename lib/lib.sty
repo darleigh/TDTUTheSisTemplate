@@ -1,0 +1,30 @@
+\usepackage[left=3.5cm, right=2cm, top=3.5cm, bottom= 3cm]{geometry}
+\usepackage[unicode]{hyperref}
+\usepackage[utf8]{vietnam}
+\usepackage{amsmath,amsfonts,amssymb,graphicx,array,multirow,multicol,indentfirst}
+%\usepackage{Times} %Font-family
+%\usepackage{chngcntr} %Đánh số hình, bảng,...
+\usepackage{lettrine}
+\newcommand{\chudau}[1]{%
+	\lettrine[lines=2,lhang=0.33,nindent=0em]{
+		\color{gray}
+		{\textsc{#1}}}{}}
+%\lettrine[lines=2]{A} / \chudau{A}
+%--------------Import form PDF
+\usepackage{pdfpages}
+%\includepdf[pages={2,4,6,{},9}]{paper1}  
+% Chèn các trang 2,4,6,blank page, trang 9 của paper 1 
+%\includepdf[pages=-]{paper2}          
+% Chèn toàn bộ paper2 
+%\includepdf[pages={3,5,7}]{paper3}      
+% Chèn các trang 3,5,7 của paper 3  
+% Vấn đề xoay trang landscape
+%\includepdf[pages=-,landscape=false]{one}
+%\includepdf[pages=-,landscape=true]{two}
+\graphicspath{
+	{lib/PDFs/}
+	{lib/JPGs/}
+	{lib/PNGs/}
+}
+\pagestyle{plain}
+\setlength{\parindent}{1cm}
