@@ -1,4 +1,4 @@
-===
+====
   Instructions:
 1. In case of data loss, please using a copy files and save it.
 2. It have 3 files and is designed to be based on three layers:
@@ -16,4 +16,4 @@ or https://www.latex-project.org/get/
 ====
 If you have any problem, please leave a comment.
 Thanks to Tran Nha, Manh Dinh Thi, and team Math2IT(texmath.com) for helping build this article.
-Nguyen Duong
+Nguyen Duong.
