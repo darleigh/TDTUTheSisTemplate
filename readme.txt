@@ -1,5 +1,11 @@
-====
   Instructions:
+1. Download.
+2. Do decompression.
+3. Open main.tex.
+4. Build.
+
+====
+  Introduces:
 1. In case of data loss, please using a copy files and save it.
 2. It have 3 files and is designed to be based on three layers:
 + Data: lib.folder contains files lib.sty (libary in latex) and the Ton Duc Thang university logo.
