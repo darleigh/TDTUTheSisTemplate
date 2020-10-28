@@ -36,7 +36,7 @@ Chay thử lần đầu tiên!
 3. Mở file có tên là `main.tex`.
 4. Khởi chạy (phím tắt là F5).
 ---
-## Download & guidline?
+## Download & guildline?
 You can refer on: [TexMath - VN](https://texmath.com/huong-dan-cai-at-latex/)
 or [Latex](https://www.latex-project.org/get/)
 
