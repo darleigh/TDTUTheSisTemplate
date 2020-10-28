@@ -1,5 +1,5 @@
 # Mẫu báo cáo của Trường Đại học Tôn Đức Thắng.
-Template specialize customized for Ton Duc Thang researcher. In addition, you can download and edit them.\
+Specialize customized template for Ton Duc Thang researcher. In addition, you can download and edit them.\
 It's all free!\
 Mẫu báo cáo được thiết kế dành riêng cho các bài báo cáo chuẩn khoa học của sinh viên trường Đại học Tôn Đức Thắng, ngoài ra. Các bạn có thể tải về và chỉnh sửa theo ý muốn của bản thân.\
 Vì nó miễn phí!
