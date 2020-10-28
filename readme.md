@@ -9,8 +9,8 @@ Vì nó miễn phí!
 ## How to use it effectively?
 
 It have 3 files and is designed to be based on three layers,
-+ **Data**: `lib.folder` contains files ```lib.sty``` (libary in latex) and the Ton Duc Thang university logo.\
-+ **Model**: ```main.tex```\
++ **Data**: `lib.folder` contains files ```lib.sty``` (libary in latex) and the Ton Duc Thang university logo.
++ **Model**: ```main.tex```
 + **GUI**: `part1.tex` and addition files by yourself.\
 ```intro.tex``` base on Ton Duc Thang universty report template.
 Do not edit file with another name.\
