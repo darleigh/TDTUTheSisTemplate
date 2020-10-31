@@ -19,6 +19,7 @@ Chay thử lần đầu tiên!
 4. Khởi chạy (phím tắt là F5).
 
 [Hướng dẫn chi tiết - Detail](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
+
 ---
 
 ## How to use it effectively?
