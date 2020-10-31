@@ -5,6 +5,19 @@ Mẫu báo cáo được thiết kế dành riêng cho các bài báo cáo chu�
 Vì nó miễn phí!
 
 ---
+## First compile:
+
+1. Download.
+2. Do decompression.
+3. Open `main.tex`.
+4. Build (hotkey F5).
+
+Chay thử lần đầu tiên!
+1. Tải về.
+2. Giải nén chúng ra.
+3. Mở file có tên là `main.tex`.
+4. Khởi chạy (phím tắt là F5).
+---
 
 ## How to use it effectively?
 
@@ -22,19 +35,7 @@ Bộ này được thiết kế theo mô hình 3 lớp, rất tối ưu cho vi�
 + **Nội dung**: file `part1.tex` và các file do bạn tạo ra để điền nội dung vào, mình đã tạo sẵn nguồn liên kết các file `part2.tex`,... bạn chỉ cần xoá comment trong latex và ctrl để tạo chúng.\
 ```intro.tex``` được thiết kế sẵn dựa trên mẫu báo cáo của trường, bạn nên thay đổi nội dung của nó từ file `main.tex`.\
 Chúc may mắn! :satisfied: :satisfied: :satisfied:
----
-## First compile:
 
-1. Download.
-2. Do decompression.
-3. Open `main.tex`.
-4. Build (hotkey F5).
-
-Chay thử lần đầu tiên!
-1. Tải về.
-2. Giải nén chúng ra.
-3. Mở file có tên là `main.tex`.
-4. Khởi chạy (phím tắt là F5).
 ---
 ## Download & guildline?
 You can refer on: [TexMath - VN](https://texmath.com/huong-dan-cai-at-latex/)
