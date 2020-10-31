@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng
+# Hướng dẫn chỉnh sửa & thay đổi hoặc thêm.
 1. Tải về.
 2. Giải nén.
 3. Mở file `main.tex`.
