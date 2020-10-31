@@ -18,7 +18,6 @@ Chay thử lần đầu tiên!
 3. Mở file có tên là `main.tex`.
 4. Khởi chạy (phím tắt là F5).
 
-[Hướng dẫn chi tiết - Detail](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
 
 ---
 
@@ -41,7 +40,7 @@ Chúc may mắn! :satisfied: :satisfied: :satisfied:
 
 ---
 ## Download & guildline?
-You can refer on: [TexMath - VN](https://texmath.com/huong-dan-cai-at-latex/)
+You can refer on: [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/)
 or [Latex](https://www.latex-project.org/get/)
 
 ---
@@ -51,6 +50,7 @@ If you have any problem, please leave a comment.\
 Hãy để lại lời bình luận ở dưới nếu bạn có bất cứ vấn đề nào cần được giúp đỡ!.\
 :email: duonguyen021999@gmail.com
 
+[Hướng dẫn chỉnh sửa - Adjustment Tutorial](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
 ---
 ## Finally,
 Thanks to Tran Nha, Manh Dinh Thi, and team Math2IT(texmath.com) for helping build this article.\
