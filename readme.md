@@ -5,38 +5,27 @@ Vì nó miễn phí!
 ---
 ## Chạy thử lần đầu!
 1. Tải về.
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123486319_859819581421897_9112557328177203526_n.png?_nc_cat=103&ccb=2&_nc_sid=58c789&_nc_ohc=pdjE6wHF5iQAX9K-XcF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=218377650c33712cc751a8ba6cd0b40b&oe=5FC5C3F9)
 2. Giải nén chúng ra.
 3. Mở file có tên là `main.tex`.
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123218994_355920365666542_2084297664279230021_n.png?_nc_cat=102&ccb=2&_nc_sid=58c789&_nc_ohc=IZsDUsV-wMQAX9iEhGx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a02235a601fa750820b748e50471f2cf&oe=5FC10F7D)
 4. Khởi chạy (phím tắt là F5).
-
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123473812_465104571133110_912174497592793755_n.jpg?_nc_cat=101&ccb=2&_nc_sid=58c789&_nc_ohc=UFtljz9QueEAX-oGhAp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=aca3e51e4acd6ec426c6fb30aff18313&oe=5FC40245)
+5. Sản phẩm là file `main.pdf` như bên trong hình.
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123653579_1647291705448753_5077406417211035415_n.png?_nc_cat=107&ccb=2&_nc_sid=58c789&_nc_ohc=8rmVawowU4QAX9xhViT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c93604a6c600a578479955ae1bae8b89&oe=5FC6D8C5)
 
 ---
 
 ## Gói template này có gì?
-(Có thể bỏ qua)
-
-Bộ này được thiết kế theo mô hình 3 lớp, rất tối ưu cho việc thay đổi sau này,
-+ **Dữ liệu**: tất cả hàm gọi thư viện đều được viết trong file có tên là `lib.sty`, và tất cả hình ảnh nên chứa ở bên trong folder có tên lib, bạn chỉ cần kéo và thả hình ảnh vào bên trong phần mềm soạn thảo Latex là nó sẽ tự nhận diện địa chỉ. Hoặc nếu làm tay, có thể thêm `\lib\<tên ảnh.png> ` hoặc `/lib/<tên ảnh.png>  ` tuỳ theo hệ điều hành bạn sử dụng.
-+ **Trung gian**: file `main.tex` là file chính để kết nối giữa các file khác.
-+ **Nội dung**: file `part1.tex` và các file do bạn tạo ra để điền nội dung vào, mình đã tạo sẵn nguồn liên kết các file `part2.tex`,... bạn chỉ cần xoá comment trong latex và ctrl để tạo chúng.\
-```intro.tex``` được thiết kế sẵn dựa trên mẫu báo cáo của trường, bạn nên thay đổi nội dung của nó từ file `main.tex`.\
-Chúc may mắn! :satisfied: :satisfied: :satisfied:
-
-[Hướng dẫn chỉnh sửa - Adjustment Tutorial](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
+Bộ này được thiết kế theo mô hình 3 lớp, rất tối ưu cho việc thay đổi sau này,\
+[Hướng dẫn chỉnh sửa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
 
 ---
-## Download & guildline?
-You can refer on: [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/)
-or [Latex](https://www.latex-project.org/get/)
+## Hướng dẫn & tải về?
+Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 
 ---
 ## Q&A?
 
-If you have any problem, please leave a comment.\
 Hãy để lại lời bình luận ở dưới nếu bạn có bất cứ vấn đề nào cần được giúp đỡ!.\
 :email: duonguyen021999@gmail.com
-
----
-## Finally,
-Thanks to Tran Nha, Manh Dinh Thi, and team Math2IT(texmath.com) for helping build this article.\
-Nguyen Duong.
