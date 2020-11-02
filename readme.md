@@ -1,6 +1,13 @@
 # Mẫu báo cáo Latex trường Tôn Đức Thắng.
-Mẫu báo cáo được thiết kế dành riêng cho các bài báo cáo chuẩn khoa học của sinh viên trường Đại học Tôn Đức Thắng, ngoài ra. Các bạn có thể tải về và chỉnh sửa theo ý muốn của bản thân.\
-Vì nó miễn phí!
+  Mẫu báo cáo được thiết kế dành riêng cho các bài báo cáo chuẩn khoa học của sinh viên trường Đại học Tôn Đức Thắng, ngoài ra. Các bạn có thể tải về và chỉnh sửa theo ý muốn của bản thân.\
+  Vì nó miễn phí!
+
+---
+## Hướng dẫn & tải về?
+Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
+  1. Phần mềm soạn thảo: TexMilk hoặc TexStudio.
+  2. Gói lệnh: TexLive(Windows), MacTex(MacOS).
+  Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 
 ---
 ## Chạy thử lần đầu!
@@ -19,10 +26,6 @@ Vì nó miễn phí!
 ## Gói template này có gì?
 Bộ này được thiết kế theo mô hình 3 lớp, rất tối ưu cho việc thay đổi sau này,\
 [Hướng dẫn chỉnh sửa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
-
----
-## Hướng dẫn & tải về?
-Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 
 ---
 ## Q&A?
