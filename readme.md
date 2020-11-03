@@ -3,7 +3,7 @@
   Vì nó miễn phí!
 
 ---
-## Hướng dẫn & tải về?
+## Tải về
 Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
   1. Phần mềm soạn thảo: `TexMilk` hoặc `TexStudio`.
   2. Gói lệnh: `TexLive` (cho hệ điều hành Windows), `MacTex` (cho hệ điều hành MacOS).\
