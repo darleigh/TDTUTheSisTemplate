@@ -16,8 +16,7 @@ Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-d
 2. Giải nén chúng ra.
 3. Mở file có tên là `main.tex`.
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123218994_355920365666542_2084297664279230021_n.png?_nc_cat=102&ccb=2&_nc_sid=58c789&_nc_ohc=IZsDUsV-wMQAX9iEhGx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a02235a601fa750820b748e50471f2cf&oe=5FC10F7D)
-4. Khởi chạy (phím tắt là F5).
-![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123473812_465104571133110_912174497592793755_n.jpg?_nc_cat=101&ccb=2&_nc_sid=58c789&_nc_ohc=UFtljz9QueEAX-oGhAp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=aca3e51e4acd6ec426c6fb30aff18313&oe=5FC40245)
+4. Khởi chạy, phím tắt là `F5` hoặc chọn vào ▶️.
 5. Sản phẩm là file `main.pdf` như bên trong hình.
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123653579_1647291705448753_5077406417211035415_n.png?_nc_cat=107&ccb=2&_nc_sid=58c789&_nc_ohc=8rmVawowU4QAX9xhViT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c93604a6c600a578479955ae1bae8b89&oe=5FC6D8C5)
 
