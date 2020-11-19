@@ -3,7 +3,7 @@
   Vì nó miễn phí!
 
 ---
-## Tải về
+## Hướng dẫn cài đặt
 Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
   1. Phần mềm soạn thảo: `TexMilk` hoặc `TexStudio`.
   2. Gói lệnh: `TexLive` (cho hệ điều hành Windows), `MacTex` (cho hệ điều hành MacOS).\
@@ -12,7 +12,7 @@ Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-d
 ---
 ## Chạy thử lần đầu!
 1. Tải về, chọn `Download ZIP`.\
-Hướng dẫn tải về: [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
+Hướng dẫn cài đặt: [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123486319_859819581421897_9112557328177203526_n.png?_nc_cat=103&ccb=2&_nc_sid=58c789&_nc_ohc=pdjE6wHF5iQAX9K-XcF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=218377650c33712cc751a8ba6cd0b40b&oe=5FC5C3F9)
 2. Giải nén chúng ra.
 3. Mở file có tên là `main.tex`.
