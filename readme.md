@@ -25,6 +25,7 @@ Hướng dẫn cài đặt: [TexMath Vietnam](https://texmath.com/huong-dan-cai-
 
 ## Thay đổi & chỉnh sửa
 [Hướng dẫn chỉnh sửa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
+[Gọi thư viện](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdditionPackage.md)
 
 ---
 ## Q&A?
