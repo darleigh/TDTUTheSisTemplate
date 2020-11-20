@@ -20,7 +20,7 @@ Ví dụ:
 ---
 ## 2. Thêm gói `package` vào bên trong file `lib.sty`
 Cách này dùng để tối ưu & tái sử dụng, nhìn lại gọn con mắt nữa. Các bạn chỉ cần mở file `lib.sty` nằm ở bên trong folder `library` là được.
-1. Mở thư mục `library`
+1. Mở thư mục `lib`
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/126816144_403465127358325_4090312606682937689_n.png?_nc_cat=106&ccb=2&_nc_sid=58c789&_nc_ohc=NIk-Ba51lhEAX-MoTm0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=7ab47ad9451590b3136067941a03cd44&oe=5FDCD7CB)
 2. Mở `lib.sty`
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/126844480_825448784906119_3612541100103478620_n.png?_nc_cat=105&ccb=2&_nc_sid=58c789&_nc_ohc=slOp474ixp8AX9DVOD6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=26a1f4344244727a2a85bbc76e19bc21&oe=5FDC7676)
