@@ -23,8 +23,7 @@ Hướng dẫn cài đặt: [TexMath Vietnam](https://texmath.com/huong-dan-cai-
 
 ---
 
-## Gói template này có gì?
-Bộ này được thiết kế theo mô hình 3 lớp, rất tối ưu cho việc thay đổi sau này,\
+## Thay đổi & chỉnh sửa
 [Hướng dẫn chỉnh sửa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
 
 ---
