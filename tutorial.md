@@ -1,4 +1,4 @@
-# Hướng dẫn thay đổi trang Giới thiệu, thêm thư viện.
+# Hướng dẫn thay đổi `Mẫu bìa`, Thêm package vào thư viện `lib.sty`.
 Thay đổi người hướng dẫn, tên môn học, thể loại báo cáo,... Các bạn chỉ cần sửa nội dung `<Nội dung mà bạn muốn sửa>` ở trong `\newcommand{\gvhd}{<Nội dung mà bạn muốn sửa>}`là được.
 ![Thay đổi nội dung trên trang intro.tex](https://scontent.xx.fbcdn.net/v/t1.15752-9/123064046_1453626421506509_4380638689436494755_n.png?_nc_cat=106&ccb=2&_nc_sid=58c789&_nc_ohc=j1NkuaPLrzwAX-ihiPJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=47a55e1fd3f3086b0083be9d0840f86e&oe=5FC36FD4)
 hoặc mở file `intro.tex` bằng cách Ctr + chuột trái hoặc Chuột phải rồi chọn Mở `intro.tex`.
