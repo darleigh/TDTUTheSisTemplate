@@ -1,4 +1,4 @@
-# Thay đổi nội dung của MẪU BÌA TRƯỜNG TÔN ĐỨC THẮNG.
+# Thay đổi nội dung của TRANG BÌA.
 Mình sẽ hướng dẫn 2 cách:
   1. Thay đổi từ file `main.tex` (khuyên dùng).
   2. Thay đổi từ bên trong file `intro.tex`
