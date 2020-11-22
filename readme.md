@@ -3,14 +3,14 @@
   Vì nó miễn phí!
 
 ---
-## Hướng dẫn cài đặt
+## ⚙️ Hướng dẫn cài đặt.
 Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
   1. Phần mềm soạn thảo: `TexMilk` hoặc `TexStudio`.
   2. Gói lệnh: `TexLive` (cho hệ điều hành Windows), `MacTex` (cho hệ điều hành MacOS).\
 Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 
 ---
-## Chạy thử lần đầu!
+## 🛠 Chạy thử lần đầu!
 1. Tải về, chọn `Download ZIP`.\
 Hướng dẫn cài đặt: [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123486319_859819581421897_9112557328177203526_n.png?_nc_cat=103&ccb=2&_nc_sid=58c789&_nc_ohc=pdjE6wHF5iQAX9K-XcF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=218377650c33712cc751a8ba6cd0b40b&oe=5FC5C3F9)
@@ -23,7 +23,21 @@ Hướng dẫn cài đặt: [TexMath Vietnam](https://texmath.com/huong-dan-cai-
 
 ---
 
-## Thay đổi & chỉnh sửa
-- [Hướng dẫn thay đổi trang bìa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdjustmentIntroductionPage.md)
-- [Thêm gói thư viện](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdditionPackage.md)
+## 💡 Thay đổi & chỉnh sửa.
+- [📝 Thay đổi trang bìa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdjustmentIntroductionPage.md)
+- [📚 Thêm gói thư viện](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdditionPackage.md)
 
+---
+
+[<img align="left" alt="Duong Nguyen | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Duong Nguyen | Facebook" width="30px" src="https://img.icons8.com/android/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Duong Nguyen | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Duong Nguyen | Github" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Duong Nguyen | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[facebook]: https://www.facebook.com/duonguyen021999/
+[github]: https://github.com/Darley2x
+[youtube]: https://www.youtube.com/channel/UC8oOmozqyg1u4V_ntFbd5nw?view_as=subscriber
+[website]: https://www.newai.vn/people/nduong/
+[twitter]: https://twitter.com/NguynDn01721425
+[instagram]: https://instagram.com/darleyx2
