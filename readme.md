@@ -5,9 +5,12 @@
 ---
 ## ⚙️ Hướng dẫn cài đặt.
 Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
-  1. Phần mềm soạn thảo: `TexMilk` hoặc `TexStudio`.
-  2. Gói lệnh: `TexLive` (cho hệ điều hành Windows), `MacTex` (cho hệ điều hành MacOS).\
-Các bạn tham khảo trên trang [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
+  1. Phần mềm soạn thảo: [`TexMilk`](https://miktex.org/download) hoặc [`TexStudio`](http://texstudio.sourceforge.net).
+  2. Gói lệnh:
+  - Windows: [`TexLive`](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/systems/texlive/Images/).
+  - MacOS X: [`MacTex`](https://tug.org/mactex/downloading.html), hoặc [`BasicTex`](http://mirror.ctan.org/systems/mac/mactex/BasicTeX.pkg) (gói `BasicTeX` sẽ có thể thiếu vài gói lệnh).
+
+Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 
 ---
 ## 🛠 Chạy thử lần đầu!
