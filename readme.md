@@ -30,9 +30,9 @@ Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex
 
 ---
 
-## Đóng góp ý kiến?
-Tác giả sẽ rất vui nếu các bạn gửi [`Issue`](https://github.com/darleyx2/tdtu-latex-report-form/issues/new/choose) của mình vào trong topic ^^!
-
+## Đóng góp ý kiến hay gặp sự cố?
+* [`Vấn đề đang gặp phải`](https://github.com/darleyx2/tdtu-latex-report-form/issues/new/choose)
+* [`Đóng góp ý kiến`](https://github.com/darleyx2/tdtu-latex-report-form/discussions)
 ---
 
 ## Khác:
