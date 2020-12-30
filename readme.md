@@ -1,42 +1,47 @@
 # Mẫu báo cáo Latex trường Tôn Đức Thắng.
-Mẫu báo cáo được thiết kế dành riêng cho các bài báo cáo chuẩn khoa học của sinh viên trường Đại học Tôn Đức Thắng, ngoài ra. Các bạn có thể tải về và chỉnh sửa theo ý muốn của bản thân.\
-Vì nó miễn phí!
+  Mẫu báo cáo được thiết kế dành riêng cho các bài báo cáo chuẩn khoa học của sinh viên trường Đại học Tôn Đức Thắng, ngoài ra. Các bạn có thể tải về và chỉnh sửa theo ý muốn của bản thân.\
+  Vì nó miễn phí!
 
 ---
-## Chạy thử lần đầu!
-1. Tải về.
+## ⚙️ Hướng dẫn cài đặt.
+Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
+  1. Phần mềm soạn thảo: [`TexMilk`](https://miktex.org/download) hoặc [`TexStudio`](http://texstudio.sourceforge.net).
+  2. Gói lệnh:
+  - Windows: [`TexLive`](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/systems/texlive/Images/).
+  - MacOS X: [`MacTex`](https://tug.org/mactex/downloading.html), hoặc [`BasicTex`](http://mirror.ctan.org/systems/mac/mactex/BasicTeX.pkg) (gói `BasicTeX` sẽ có thể thiếu vài gói lệnh).
+
+Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
+
+---
+## 🛠 Chạy thử lần đầu!
+1. Tải về, chọn `Download ZIP`.
 2. Giải nén chúng ra.
 3. Mở file có tên là `main.tex`.
-4. Khởi chạy (phím tắt là F5).
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123218994_355920365666542_2084297664279230021_n.png?_nc_cat=102&ccb=2&_nc_sid=58c789&_nc_ohc=IZsDUsV-wMQAX9iEhGx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a02235a601fa750820b748e50471f2cf&oe=5FC10F7D)
+4. Khởi chạy, phím tắt là `F5` hoặc chọn vào ▶️.
+5. Sản phẩm là file `main.pdf` như bên trong hình.
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123653579_1647291705448753_5077406417211035415_n.png?_nc_cat=107&ccb=2&_nc_sid=58c789&_nc_ohc=8rmVawowU4QAX9xhViT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c93604a6c600a578479955ae1bae8b89&oe=5FC6D8C5)
 
+---
+
+## 💡 Thay đổi & chỉnh sửa.
+- [📝 Thay đổi trang bìa](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdjustmentIntroductionPage.md)
+- [📚 Thêm gói thư viện](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/AdditionPackage.md)
 
 ---
 
-## Gói template này có gì?
-(Có thể bỏ qua)
+## Khác:
+<!--[<img align="left" alt="Duong Nguyen | Momo" width="20px" src="https://img.icons8.com/ios-filled/100/000000/yandex-money.png"/>][momo]-->
+[<img align="left" alt="Duong Nguyen | Website" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Duong Nguyen | Facebook" width="20px" src="https://img.icons8.com/android/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Duong Nguyen | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Duong Nguyen | Github" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Duong Nguyen | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-Bộ này được thiết kế theo mô hình 3 lớp, rất tối ưu cho việc thay đổi sau này,
-+ **Dữ liệu**: tất cả hàm gọi thư viện đều được viết trong file có tên là `lib.sty`, và tất cả hình ảnh nên chứa ở bên trong folder có tên lib, bạn chỉ cần kéo và thả hình ảnh vào bên trong phần mềm soạn thảo Latex là nó sẽ tự nhận diện địa chỉ. Hoặc nếu làm tay, có thể thêm `\lib\<tên ảnh.png> ` hoặc `/lib/<tên ảnh.png>  ` tuỳ theo hệ điều hành bạn sử dụng.
-+ **Trung gian**: file `main.tex` là file chính để kết nối giữa các file khác.
-+ **Nội dung**: file `part1.tex` và các file do bạn tạo ra để điền nội dung vào, mình đã tạo sẵn nguồn liên kết các file `part2.tex`,... bạn chỉ cần xoá comment trong latex và ctrl để tạo chúng.\
-```intro.tex``` được thiết kế sẵn dựa trên mẫu báo cáo của trường, bạn nên thay đổi nội dung của nó từ file `main.tex`.\
-Chúc may mắn! :satisfied: :satisfied: :satisfied:
-
-[Hướng dẫn chỉnh sửa - Adjustment Tutorial](https://github.com/Darley2x/tdtu-latex-report-form/blob/main/tutorial.md)
-
----
-## Download & guildline?
-You can refer on: [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/)
-or [Latex](https://www.latex-project.org/get/)
-
----
-## Q&A?
-
-If you have any problem, please leave a comment.\
-Hãy để lại lời bình luận ở dưới nếu bạn có bất cứ vấn đề nào cần được giúp đỡ!.\
-:email: duonguyen021999@gmail.com
-
----
-## Finally,
-Thanks to Tran Nha, Manh Dinh Thi, and team Math2IT(texmath.com) for helping build this article.\
-Nguyen Duong.
+[momo]: https://nhantien.momo.vn/5LWfOHjjb79 
+[facebook]: https://www.facebook.com/duonguyen021999/
+[github]: https://github.com/Darley2x
+[youtube]: https://www.youtube.com/channel/UC8oOmozqyg1u4V_ntFbd5nw?view_as=subscriber
+[website]: https://www.newai.vn/people/nduong/
+[twitter]: https://twitter.com/NguynDn01721425
+[instagram]: https://instagram.com/darleyx2
