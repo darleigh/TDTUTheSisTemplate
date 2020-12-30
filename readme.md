@@ -31,7 +31,7 @@ Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex
 ---
 
 ## Đóng góp ý kiến?
-Tác giả sẽ rất vui nếu các bạn gửi ***Issue*** của mình vào trong topic ^^!
+Tác giả sẽ rất vui nếu các bạn gửi [`Issue`](https://github.com/darleyx2/tdtu-latex-report-form/issues/new/choose) của mình vào trong topic ^^!
 
 ---
 
