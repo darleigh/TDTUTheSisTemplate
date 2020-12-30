@@ -30,12 +30,12 @@ Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex
 
 ---
 
-## Đóng góp ý kiến hay gặp sự cố?
+## Cần sự giúp đỡ?
 * [`Vấn đề đang gặp phải`](https://github.com/darleyx2/tdtu-latex-report-form/issues/new/choose)
 * [`Đóng góp ý kiến`](https://github.com/darleyx2/tdtu-latex-report-form/discussions)
 ---
 
-## Khác:
+## Tác giả
 <!--[<img align="left" alt="Duong Nguyen | Momo" width="20px" src="https://img.icons8.com/ios-filled/100/000000/yandex-money.png"/>][momo]-->
 [<img align="left" alt="Duong Nguyen | Website" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Duong Nguyen | Facebook" width="20px" src="https://img.icons8.com/android/48/000000/facebook-new.png"/>][facebook]
