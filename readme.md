@@ -21,6 +21,7 @@ Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex
 4. Khởi chạy, phím tắt là `F5` hoặc chọn vào ▶️.
 5. Sản phẩm là file `main.pdf` như bên trong hình.
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/123653579_1647291705448753_5077406417211035415_n.png?_nc_cat=107&ccb=2&_nc_sid=58c789&_nc_ohc=8rmVawowU4QAX9xhViT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c93604a6c600a578479955ae1bae8b89&oe=5FC6D8C5)
+* Nếu các bạn sử dụng [`Overleaf`](https://www.overleaf.com/project) thì ném thẳng file .ZIP luôn nhé!
 
 ---
 
