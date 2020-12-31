@@ -8,7 +8,8 @@ Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phầ
   1. Phần mềm soạn thảo: [`TexMilk`](https://miktex.org/download) hoặc [`TexStudio`](http://texstudio.sourceforge.net).
   2. Gói lệnh:
   - Windows: [`TexLive`](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/systems/texlive/Images/).
-  - MacOS X: [`MacTex`](https://tug.org/mactex/downloading.html), hoặc [`BasicTex`](http://mirror.ctan.org/systems/mac/mactex/BasicTeX.pkg) (gói `BasicTeX` sẽ có thể thiếu vài gói lệnh).
+  - MacOS X: [`MacTex`](https://tug.org/mactex/downloading.html), hoặc [`BasicTex`](http://mirror.ctan.org/systems/mac/mactex/BasicTeX.pkg)\
+  * Lưu ý:gói `BasicTeX` sẽ có thể thiếu vài gói lệnh.
 
 Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
 
