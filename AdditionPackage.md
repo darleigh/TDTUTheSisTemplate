@@ -3,7 +3,7 @@ Chúng ta có 2 các để gọi thư viện vào `TEX`:
   1. Thêm vào gói `lib.sty` mình đã viết sẵn để trông `clearly` hơn! (khuyên dùng)
   2. Thêm thẳng từ file `main.tex`: với những mẫu báo cáo dùng một lần.
   
-Yah, chúng ta bắt đầu nào!/
+Yah, chúng ta bắt đầu nào!
 
 ---
 ## 1. Thêm gói `package` vào bên trong file `lib.sty`
