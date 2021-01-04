@@ -16,9 +16,10 @@ Cách này dùng để tối ưu & tái sử dụng, nhìn lại gọn con mắt
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/126616135_2793982420847890_5302460179283652744_n.png?_nc_cat=103&ccb=2&_nc_sid=58c789&_nc_ohc=kVyWMBt8VtgAX8Ie6mQ&_nc_oc=AQmmfnIkzeP2LktD0gt2aw2Uknnl94CBet5De-XW4XIw2aLQ2cORK02bEwveN4wAcmcK82Jyccp-GxthJCpYyGpM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b5313c71d1a467fe8686fa23f66b2f2a&oe=5FDE4E59)
 ---
 ## 2. Thêm thẳng từ file `main.tex`.
-Cách này rất đơn giản, bạn chỉ cần bỏ gói `\usepackage{<tên gói>}` ở trên `\begin{document}` là được.\
+Cách này rất đơn giản, bạn chỉ cần bỏ gói `\usepackage{<tên gói>}` ở trên `\begin{document}` và phía dưới `\usepackage{lib.sty}` là được.\
 Ví dụ:
 ```tex
+\usepackage{lib.sty}
 \usepackage{Times} %Font-family:Times New Roman.
 \begin{document}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit,
