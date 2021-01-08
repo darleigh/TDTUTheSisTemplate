@@ -9,6 +9,14 @@ Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phầ
   2. Gói lệnh:
   - Windows: [`TexLive`](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/systems/texlive/Images/).
   - MacOS X: [`MacTex`](https://tug.org/mactex/downloading.html), hoặc [`BasicTex`](http://mirror.ctan.org/systems/mac/mactex/BasicTeX.pkg)
+  - Ubuntu/linux:\
+Các bạn sử dụng hệ điều hành này thì khỏi phải nói chi nhiều, mã bash lên cho gọn. Mở Terminal và gõ lệnh dưới nha! 😎
+```
+sudo apt-get install texmaker
+```
+```
+sudo apt-get install texlive-full
+```
   * Lưu ý: gói `BasicTeX` sẽ có thể thiếu vài gói lệnh.
 
 Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
