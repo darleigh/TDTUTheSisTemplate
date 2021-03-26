@@ -4,7 +4,8 @@
 
 ---
 ## ⚙️ Hướng dẫn cài đặt.
-Muốn sử dụng được `LATEX` các bạn buộc phải tải gồm 2 phần:
+- `LATEX ONLINE` (khuyến khích): các bạn có thể sử dụng hệ thống [`Overleaf`](https://www.overleaf.com).
+- `LATEX OFFLINE` (không khuyến cáo):
   1. Phần mềm soạn thảo: [`TexMilk`](https://miktex.org/download) hoặc [`TexStudio`](http://texstudio.sourceforge.net).
   2. Gói lệnh:
   - Windows: [`TexLive`](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/systems/texlive/Images/).
