@@ -29,6 +29,7 @@ Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex
 3. Mở file có tên là `main.tex`.
 4. Khởi chạy, phím tắt là `F5` hoặc chọn vào ▶️.
 5. Sản phẩm là file `main.pdf` như bên trong hình.
+[`Link hướng dẫn`](https://www.youtube.com/watch?v=R2oWZpfRnBc)
 * Nếu các bạn sử dụng [`Overleaf`](https://www.overleaf.com/project) thì ném thẳng file .ZIP luôn nhé!
 
 ---
