@@ -15,6 +15,9 @@
 3. Chọn New Project -> Upload Project.
 - Bạn tải file [`TDTUTheSisTemplate.zip`](https://github.com/darleyx2/TDTUTheSisTemplate/archive/refs/heads/main.zip)
 - Ném file [`TDTUTheSisTemplate.zip`](https://github.com/darleyx2/TDTUTheSisTemplate/archive/refs/heads/main.zip) lên chỗ Upload Project bằng đuôi zip.
+4. Overleaf sẽ mở trang mới, sau đó chúng ta tìm file `main.tex` ở mục lục bên trái.
+Chúc các bạn thành công! ;D
+Nếu vui vẻ hãy cho tôi biết bài viết này hữu ích bằng việc momo 1k cho tài khoản mình nha. ;D
 
 ---
 
