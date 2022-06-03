@@ -4,33 +4,17 @@
 
 ---
 ## ⚙️ Hướng dẫn cài đặt.
-- `LATEX ONLINE` (khuyến khích): các bạn có thể sử dụng hệ thống [`Overleaf`](https://www.overleaf.com), và [`Demo`](https://www.overleaf.com/read/jqdmjdhmfpqk)
-- `LATEX OFFLINE` (không khuyến cáo):
-  1. Phần mềm soạn thảo: [`TexMilk`](https://miktex.org/download) hoặc [`TexStudio`](http://texstudio.sourceforge.net).
-  2. Gói lệnh:
-  - Windows: [`TexLive`](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/systems/texlive/Images/).
-  - MacOS X: [`MacTex`](https://tug.org/mactex/downloading.html), hoặc [`BasicTex`](http://mirror.ctan.org/systems/mac/mactex/BasicTeX.pkg)
-  - Ubuntu/linux:\
-Các bạn sử dụng hệ điều hành này thì khỏi phải nói chi nhiều, mã bash lên cho gọn. Mở Terminal và gõ lệnh dưới nha! 😎
-```
-sudo apt-get install texmaker
-```
-```
-sudo apt-get install texlive-full
-```
-  * Lưu ý: gói `BasicTeX` sẽ có thể thiếu vài gói lệnh.
-
-Nguồn tham khảo [TexMath Vietnam](https://texmath.com/huong-dan-cai-at-latex/).
-
+- `LATEX ONLINE`: các bạn có thể sử dụng hệ thống [`Overleaf`](https://www.overleaf.com), và [`Demo`](https://www.overleaf.com/read/jqdmjdhmfpqk)
 ---
 ## 🛠 Chạy thử lần đầu!
-1. Tải về, chọn `Download ZIP`.
-2. Giải nén chúng ra.
-3. Mở file có tên là `main.tex`.
-4. Khởi chạy, phím tắt là `F5` hoặc chọn vào ▶️.
-5. Sản phẩm là file `main.pdf` như bên trong hình.
-[`Link hướng dẫn`](https://www.youtube.com/watch?v=R2oWZpfRnBc)
-* Nếu các bạn sử dụng [`Overleaf`](https://www.overleaf.com/project) thì ném thẳng file .ZIP luôn nhé!
+
+### Chạy trên Overleaf
+[`Demo`](https://www.overleaf.com/read/jqdmjdhmfpqk)
+1. Các bạn truy cập [`Overleaf`](https://www.overleaf.com/)
+2. Đăng nhập hoặc đăng ký một tài khoản (nên đăng ký mail ngoà để dễ cộng tác với bạn khác)
+3. Chọn New Project -> Upload Project.
+- Bạn tải file [`TDTUTheSisTemplate.zip`](https://github.com/darleyx2/TDTUTheSisTemplate/archive/refs/heads/main.zip)
+- Ném file [`TDTUTheSisTemplate.zip`](https://github.com/darleyx2/TDTUTheSisTemplate/archive/refs/heads/main.zip) lên chỗ Upload Project bằng đuôi zip.
 
 ---
 
