@@ -34,7 +34,9 @@ Nếu vui vẻ hãy cho tôi biết bài viết này hữu ích bằng việc mo
 ---
 
 ## Tác giả
+Duong Nguyen
+[darleigh.com](https://darleigh.com)
+hi@darleigh.com
 
-[<img align="left" alt="Duong Nguyen | Website" src="https://github.com/darleigh/site/blob/main/demo.png" />][website]
 
 [website]: https://darleigh.com
